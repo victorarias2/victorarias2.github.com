@@ -2,5 +2,8 @@
     display: block;
     margin-left: auto;
 margin-right: auto;
-width: 35%;
+width: 45%;
+}
+.centertext{
+    text-align: center;
 }
