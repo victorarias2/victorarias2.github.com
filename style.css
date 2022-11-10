@@ -4,9 +4,8 @@
 margin-right: auto;
 width: 45%;
 }
-.centertext{
+.garfieldtext{
     text-align: center;
-}
-.firefont{
-    
+    font-family: verdana;
+    font-weight:1000
 }
